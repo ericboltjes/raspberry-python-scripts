@@ -1,2 +1,2 @@
 # raspberry-python-scripts
-Python scripts for different tasks.
+In this Repository you can find many python scripts, which I wrote for school or home use.
